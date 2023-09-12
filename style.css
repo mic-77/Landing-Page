@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer,
+.landing {
+  background-color: #1f2937;
+}
+
+.footer {
+  color: white;
+}
